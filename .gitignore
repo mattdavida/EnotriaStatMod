@@ -1,0 +1,12 @@
+# Ignore everything by default
+*
+
+# But track these specific directories
+!shared/
+!shared/Utils/
+!shared/Utils/**
+!Enotria/
+!Enotria/**
+
+# Always track gitignore itself
+!.gitignore
