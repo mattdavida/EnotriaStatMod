@@ -42,6 +42,11 @@ This repository contains a UE4SS mod for Enotria: The Last Song, providing quali
    ```
 5. Launch the game. Mod initialization messages will appear in the UE4SS console.
 
+## For Developers 
+
+To get IntelliSense for game-specific types (e.g., `ABPC_MainCharacter_C`), you must generate the type definitions yourself using UE4SS, as these files are not included in the repository.
+[Instructions Here](https://docs.ue4ss.com/guides/using-custom-lua-bindings.html)
+
 ## Repository Structure
 
 This repository only tracks the following directories:
