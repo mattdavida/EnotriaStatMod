@@ -10,3 +10,6 @@
 
 # Always track gitignore itself
 !.gitignore
+
+# Track README.md
+!README.md
