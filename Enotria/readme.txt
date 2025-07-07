@@ -101,3 +101,25 @@ v1.0 - Initial release
 This mod uses UE4SS scripting to directly modify game stats.
 All features are designed to work within UE4SS limitations.
 Enjoy your enhanced Enotria: The Last Song experience!
+
+🤝 **COMMUNITY CONTRIBUTIONS WELCOME**
+
+This mod is open source! Feel free to contribute fixes and improvements:
+
+**GitHub Repository:** https://github.com/mattdavida/EnotriaStatMod
+
+**How to Contribute:**
+• Fork the repository
+• Make your improvements (fix weapon bug, optimize performance, add features)
+• Submit a Pull Request
+• I'll review and merge quality contributions
+
+**Known Issues Looking for Contributors:**
+• First equipped weapon +10 upgrade bug
+• Performance optimization for inventory loops  
+• Stability improvements for engine limitations
+
+**Perfect for:**
+• UE4SS developers wanting to learn advanced techniques
+• Players who want to fix specific issues
+• Modders interested in Unreal Engine reverse engineering
